@@ -1,7 +1,7 @@
 # GameProgramming-KingdomHearts
 
 ## What I learned
-- I respect anyone that does adobe flash as trying to make verything work together was painful haha
+- I respect anyone that does adobe flash as trying to make everything work together was painful haha
 - sprites are useful when making animations 
 - event listners
 
